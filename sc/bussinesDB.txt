@@ -1,0 +1,19 @@
+#define MAX_BUSSINESS 100
+enum BussinessInfo
+{
+	bool:bCreated, // true - verslas sukurtas, false - nesukurtas
+	bool:Nupirktas, // true - nupirktas, false - nenupirktas
+	Savininkas[21], // Verslo savininko vardas
+	bPavadinimas[50], // Verslo pavadinimas
+	Text3D:Bussiness3D, // Verslo 3d label'io ID
+	BussinessPickup, // Verslo pickup'o ID
+	Pasaulis, // Verslo virtualus pasaulis
+	Float:bpX, // Verslo pozicija X
+	Float:bpY, // Verslo pozicija Y
+	Float:bpZ, // Verslo pozicija Z
+	Uzdarbis,  // Verslo Uzdarbis
+	Uzdirbta, // Kiek is viso uzdirbta
+	Kaina, // Verslo kaina
+	Gamykla //Kiek pastatyta gamyklø
+}
+new bInfo[MAX_BUSSINESS][BussinessInfo];
