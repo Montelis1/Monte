@@ -1,0 +1,14 @@
+MatX = -1956.400878
+MatY = 265.306213
+MatZ = 35.468750
+MatRX = 0.000000
+MatRY = 0.000000
+MatRZ = 270.072723
+MatText = i
+MatFont = Webdings
+MatColor = -1
+MatSize = 24
+MatBGC = 0
+MatALG = 1
+MatBold = 0
+MatRes = 120

@@ -1,0 +1,14 @@
+MatX = -1984.376098
+MatY = 272.737701
+MatZ = 35.179355
+MatRX = 0.000000
+MatRY = 0.000000
+MatRZ = 76.744033
+MatText = STOP
+MatFont = Verdana
+MatColor = -1
+MatSize = 27
+MatBGC = 0
+MatALG = 1
+MatBold = 0
+MatRes = 130

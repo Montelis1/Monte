@@ -1,0 +1,6 @@
+Sancarson_Lentele.tde
+pasiekimai_Sancarson.tde
+Inventorius_sancarson.tde
+Medicinos_Lentele.tde
+pasirinkimas_veikejas.tde
+SPEEDIKAS_SANCARSON.tde

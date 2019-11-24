@@ -1,0 +1,14 @@
+MatX = -1956.886718
+MatY = 266.079376
+MatZ = 35.468750
+MatRX = 0.000000
+MatRY = 0.000000
+MatRZ = 154.065719
+MatText = nformacija
+MatFont = Times New Roman
+MatColor = -1
+MatSize = 25
+MatBGC = 0
+MatALG = 1
+MatBold = 0
+MatRes = 130

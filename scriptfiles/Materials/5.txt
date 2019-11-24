@@ -1,0 +1,14 @@
+MatX = -78.196830
+MatY = 1208.820190
+MatZ = 19.742187
+MatRX = 0.000000
+MatRY = 0.000000
+MatRZ = 359.664276
+MatText = 2
+MatFont = Wingdings
+MatColor = -10000537
+MatSize = 35
+MatBGC = 0
+MatALG = 1
+MatBold = 0
+MatRes = 130

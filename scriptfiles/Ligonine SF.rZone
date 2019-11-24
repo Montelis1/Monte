@@ -1,0 +1,8 @@
+//At The Top Of The Script:
+new Ligonine SF;
+
+//Under OnGameModeInit
+Ligonine SF = GangZoneCreate(99.908386, 1791.467773, 323.908386, 1943.467773);
+
+//Under OnPlayerSpawn:
+GangZoneShowForPlayer(playerid, Ligonine SF, 16711888);

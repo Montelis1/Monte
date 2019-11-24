@@ -1,0 +1,131 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[10];
+
+TDEditor_TD[0] = TextDrawCreate(312.724975, 158.179946, "LD_SPAC:white");
+TextDrawLetterSize(TDEditor_TD[0], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[0], 105.000000, 18.000000);
+TextDrawAlignment(TDEditor_TD[0], 1);
+TextDrawColor(TDEditor_TD[0], 1532713983);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 0);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 4);
+TextDrawSetProportional(TDEditor_TD[0], 0);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(233.750000, 176.386383, "LD_SPAC:white");
+TextDrawLetterSize(TDEditor_TD[1], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[1], 184.000000, 127.000000);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], 1532713983);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 0);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 4);
+TextDrawSetProportional(TDEditor_TD[1], 0);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+TDEditor_TD[2] = TextDrawCreate(224.825103, 173.926147, "");
+TextDrawLetterSize(TDEditor_TD[2], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[2], 90.000000, 90.000000);
+TextDrawAlignment(TDEditor_TD[2], 1);
+TextDrawColor(TDEditor_TD[2], -1);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetOutline(TDEditor_TD[2], 0);
+TextDrawBackgroundColor(TDEditor_TD[2], 1532713983);
+TextDrawFont(TDEditor_TD[2], 5);
+TextDrawSetProportional(TDEditor_TD[2], 0);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetPreviewModel(TDEditor_TD[2], 11736);
+TextDrawSetPreviewRot(TDEditor_TD[2], 80.000000, -46.000000, 2.000000, 1.000000);
+
+TDEditor_TD[3] = TextDrawCreate(339.874267, 160.879928, "Medicinos_centras");
+TextDrawLetterSize(TDEditor_TD[3], 0.200000, 1.200000);
+TextDrawAlignment(TDEditor_TD[3], 1);
+TextDrawColor(TDEditor_TD[3], -1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+TextDrawSetOutline(TDEditor_TD[3], 0);
+TextDrawBackgroundColor(TDEditor_TD[3], 255);
+TextDrawFont(TDEditor_TD[3], 1);
+TextDrawSetProportional(TDEditor_TD[3], 1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+
+TDEditor_TD[4] = TextDrawCreate(312.500000, 195.026504, "pas_mus_galite_nusipirkti:");
+TextDrawLetterSize(TDEditor_TD[4], 0.150000, 1.200000);
+TextDrawAlignment(TDEditor_TD[4], 1);
+TextDrawColor(TDEditor_TD[4], -1);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+TextDrawSetOutline(TDEditor_TD[4], 0);
+TextDrawBackgroundColor(TDEditor_TD[4], 255);
+TextDrawFont(TDEditor_TD[4], 2);
+TextDrawSetProportional(TDEditor_TD[4], 1);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+
+TDEditor_TD[5] = TextDrawCreate(312.500000, 210.527450, "Gyvybes~n~Sarvai~n~Pazyma~n~Nepriklausomybe");
+TextDrawLetterSize(TDEditor_TD[5], 0.150000, 1.200000);
+TextDrawAlignment(TDEditor_TD[5], 1);
+TextDrawColor(TDEditor_TD[5], -1);
+TextDrawSetShadow(TDEditor_TD[5], 0);
+TextDrawSetOutline(TDEditor_TD[5], 0);
+TextDrawBackgroundColor(TDEditor_TD[5], 255);
+TextDrawFont(TDEditor_TD[5], 2);
+TextDrawSetProportional(TDEditor_TD[5], 1);
+TextDrawSetShadow(TDEditor_TD[5], 0);
+
+TDEditor_TD[6] = TextDrawCreate(243.000488, 281.833557, "LD_SPAC:white");
+TextDrawLetterSize(TDEditor_TD[6], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[6], 84.000000, 20.000000);
+TextDrawAlignment(TDEditor_TD[6], 1);
+TextDrawColor(TDEditor_TD[6], -11579393);
+TextDrawSetShadow(TDEditor_TD[6], 0);
+TextDrawSetOutline(TDEditor_TD[6], 0);
+TextDrawBackgroundColor(TDEditor_TD[6], 255);
+TextDrawFont(TDEditor_TD[6], 4);
+TextDrawSetProportional(TDEditor_TD[6], 0);
+TextDrawSetShadow(TDEditor_TD[6], 0);
+TextDrawSetSelectable(TDEditor_TD[6], true);
+
+TDEditor_TD[7] = TextDrawCreate(330.480865, 281.733551, "LD_SPAC:white");
+TextDrawLetterSize(TDEditor_TD[7], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[7], 84.000000, 20.000000);
+TextDrawAlignment(TDEditor_TD[7], 1);
+TextDrawColor(TDEditor_TD[7], -11579393);
+TextDrawSetShadow(TDEditor_TD[7], 0);
+TextDrawSetOutline(TDEditor_TD[7], 0);
+TextDrawBackgroundColor(TDEditor_TD[7], 255);
+TextDrawFont(TDEditor_TD[7], 4);
+TextDrawSetProportional(TDEditor_TD[7], 0);
+TextDrawSetShadow(TDEditor_TD[7], 0);
+TextDrawSetSelectable(TDEditor_TD[7], true);
+
+TDEditor_TD[8] = TextDrawCreate(275.397735, 285.532012, "Pirkti");
+TextDrawLetterSize(TDEditor_TD[8], 0.150000, 1.200000);
+TextDrawAlignment(TDEditor_TD[8], 1);
+TextDrawColor(TDEditor_TD[8], -1);
+TextDrawSetShadow(TDEditor_TD[8], 0);
+TextDrawSetOutline(TDEditor_TD[8], 0);
+TextDrawBackgroundColor(TDEditor_TD[8], 255);
+TextDrawFont(TDEditor_TD[8], 2);
+TextDrawSetProportional(TDEditor_TD[8], 1);
+TextDrawSetShadow(TDEditor_TD[8], 0);
+TextDrawSetSelectable(TDEditor_TD[8], true);
+
+TDEditor_TD[9] = TextDrawCreate(359.902893, 285.532012, "Atmesti");
+TextDrawLetterSize(TDEditor_TD[9], 0.150000, 1.200000);
+TextDrawAlignment(TDEditor_TD[9], 1);
+TextDrawColor(TDEditor_TD[9], -1);
+TextDrawSetShadow(TDEditor_TD[9], 0);
+TextDrawSetOutline(TDEditor_TD[9], 0);
+TextDrawBackgroundColor(TDEditor_TD[9], 255);
+TextDrawFont(TDEditor_TD[9], 2);
+TextDrawSetProportional(TDEditor_TD[9], 1);
+TextDrawSetShadow(TDEditor_TD[9], 0);
+TextDrawSetSelectable(TDEditor_TD[9], true);
+
+
+
+
+//Total textdraws exported: 10 (10 global textdraws / 0 player textdraws) ~ 1/3/2018 ~ 15:40:36
+TDEditor V1.17 BY ADRI1

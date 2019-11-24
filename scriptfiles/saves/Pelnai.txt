@@ -1,0 +1,10 @@
+ÿPolicijos=0
+Taxi=10011
+Mechaniku=35720
+Dyleriu=0
+Mediku=20459
+Furistu=5000
+SWAT=0
+Ballas=38000
+bvp=565826
+Policijos=10030495

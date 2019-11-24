@@ -1,0 +1,14 @@
+MatX = -78.196830
+MatY = 1208.820190
+MatZ = 19.742187
+MatRX = 0.000000
+MatRY = 0.000000
+MatRZ = 359.664276
+MatText = Limuzininkai
+MatFont = Arial Black
+MatColor = -1
+MatSize = 24
+MatBGC = 0
+MatALG = 1
+MatBold = 1
+MatRes = 130

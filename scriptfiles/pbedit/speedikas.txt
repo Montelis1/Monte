@@ -1,0 +1,2 @@
+PlayerBar_0[playerid] = CreatePlayerProgressBar(playerid, 635.000000, 442.000000, 15.000000, 88.000000, -1724697601, 100.000000, BAR_DIRECTION_UP);
+PlayerBar_1120403456[playerid] = SetPlayerProgressBarValue(playerid, );
